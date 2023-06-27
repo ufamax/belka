@@ -12,4 +12,4 @@ build_ziggurat <- function(n) {
   return (m)
 }
 
-w <- build_ziggurat(4); w
+z <- build_ziggurat(4); z
